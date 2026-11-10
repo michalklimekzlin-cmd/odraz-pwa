@@ -1,0 +1,13 @@
+{
+  "name": "Odraz Dovednosti •ア",
+  "short_name": "Odraz",
+  "description": "Offline odraz principů Vivere atque Fru'ii'T a CHT 360°‰",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1612",
+  "theme_color": "#e7b65c",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
